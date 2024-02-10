@@ -1,24 +1,5 @@
 package it.gb.sportivo
-/*
-const val SUAREZ = "Luis Suarez"
-const val FIRMINO = "Roberto Firmino"
-const val NEUER = "Manuel Neuer"
-const val NEYMAR ="Neymar"
-const val CROSS = "Toni Kroos"
-const val SALAH = "Mohamed Salah"
-const val CASEMIRO = "Casemiro"
-const val DIMARIA = "Di Maria Hernandez"
-const val BENZEMA = "Karim Benzema"
-const val LUKAKU = "Romelu Lukaku"
-const val MBAPPE = "Kylian Mbappe"
-const val ZLATAN = "Zlatan Ibrahimovic"
-const val LEVANDOVSKI = "Robert Lewandowski"
-const val MODRIC = "Luka Modric"
-const val HAALAND = "Erling Haaland"
-const val ZOMMER = "Yann Sommer"
-const val MESSI = "Messi"
-const val DEBRUINE = "Kevin De Bruyne"
-*/
+
 
 const val SPALETTI = "Luciano Spalletti"
 const val BOB_BREDLI= "Bob Bradley"
