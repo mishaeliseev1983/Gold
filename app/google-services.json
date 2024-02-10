@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290845103010",
+    "project_id": "gldbtbt",
+    "storage_bucket": "gldbtbt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290845103010:android:32df7fbb754547c09418fb",
+        "android_client_info": {
+          "package_name": "it.gb.sportivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2MxKzbyblrge_gObtlT5OewgsL2Ljdqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Gold</string>
+    <string name="photoPlayer">Photo</string>
+    <string name="message">Message</string>
+    <string name="param_did_not_read_from_remote">Firebase did not answer or parameter did not read from Firebase remote config</string>
+    <string name="setwallpaper">Set wallpaper</string>
+    <string name="please_select_image">Please select a picture</string>
+    <string name="wallpaper_was_change">Wallpaper Set to Home screen</string>
+    <string name="wallpaper_wasnot_change">Wallpaper was no set to Home screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="welcome_logo">Welcome logo</string>
+    <string name="next">Next</string>
+    <string name="button_understand">Let\'s started</string>
+    <string name="button_understand2">START</string>
+    <string name="quiz">Michael Jordan’s Career Biography</string>
+    <string name="clock">%02d : %02d</string>
+    <string name="number_player">Find player #%d</string>
+    <string name="wrong">Wrong</string>
+    <string name="right">Right</string>
+    <string name="guess_bald">Guess the bald one</string>
+    <string name="guess_bald2">We call the coach, and you look for him in the photo</string>
+    <string name="playAgain">Play again</string>
+    <string name="left">Left</string>
+    <string name="points">Points - %d</string>
+    <string name="wrong_answers">Wrong answers - %d</string>
+    <string name="best_result">Best result - %d</string>
+    <string name="correct_answers">Correct answers - %d</string>
+</resources>

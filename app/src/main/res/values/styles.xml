@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="OptionTextStyleBigger">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="OptionTextStyle">
+        <item name="android:padding">3dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Back">
+        <item name="android:windowBackground">@drawable/layers2</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
